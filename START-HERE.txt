@@ -1,0 +1,10 @@
+WORD MACRO TOOLKIT — BẮT ĐẦU TẠI ĐÂY
+
+1) Mở thư mục này bằng VS Code.
+2) Xem docs/WORKFLOW.md trước khi sửa.
+3) src/originals: bản gốc, tuyệt đối không chỉnh sửa.
+4) src/working: nơi chỉnh sửa.
+5) docs/STATIC-AUDIT.md: các rủi ro cần ưu tiên.
+6) tools/check_modules.py: kiểm tra cấu trúc .bas (không biên dịch VBA).
+
+Không import thử vào Normal.dotm duy nhất. Hãy backup và thử trên bản sao.

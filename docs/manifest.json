@@ -1,0 +1,240 @@
+[
+  {
+    "module": "Module01",
+    "original_filename": "Module1.bas",
+    "normalized_filename": "Module01.bas",
+    "bytes": 215,
+    "sha256": "5148324f971d329f1cd5f511ac0fc811514510e68aa760633c4c4d18976785e6",
+    "procedures": [
+      "OpenNormalDotm"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module02",
+    "original_filename": "Module 2.bas",
+    "normalized_filename": "Module02.bas",
+    "bytes": 642,
+    "sha256": "bbcc93f5702bc7e2f37cafca1c1b6b718f2c3ce1568f073ed4693dd43b0b163c",
+    "procedures": [
+      "InsertPageNumbers"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module03",
+    "original_filename": "Module3.bas",
+    "normalized_filename": "Module03.bas",
+    "bytes": 31,
+    "sha256": "b6d82a8afc54e7ed817548668e64cf549d219db43619a5aa6341c2bba85e8a8b",
+    "procedures": [],
+    "empty": true
+  },
+  {
+    "module": "Module04",
+    "original_filename": "Module4.bas",
+    "normalized_filename": "Module04.bas",
+    "bytes": 1639,
+    "sha256": "8f132db77c7a62958f801a548058f0ca5c717f219ee518d822142899f968b39d",
+    "procedures": [
+      "ExportAutoCorrectUTF8"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module05",
+    "original_filename": "Module5.bas",
+    "normalized_filename": "Module05.bas",
+    "bytes": 1838,
+    "sha256": "3c479583ce73332db24e20f5e623b48f6b8f588152a1254f2d8266ed1493bf2e",
+    "procedures": [
+      "ImportAutoCorrectUTF8"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module06",
+    "original_filename": "Module6.bas",
+    "normalized_filename": "Module06.bas",
+    "bytes": 181,
+    "sha256": "9cba482e47111c81b24f8d222f5e84866cdbf5c49c8638b28c917a78e5b1d626",
+    "procedures": [
+      "InsertFootnote"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module07",
+    "original_filename": "Module7.bas",
+    "normalized_filename": "Module07.bas",
+    "bytes": 446,
+    "sha256": "423efeca1dc0d3fb848b939f901d878b4e8e8308d0d282d2ade3fee8300b3bb9",
+    "procedures": [
+      "OpenContainingFolder"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module08",
+    "original_filename": "Module8.bas",
+    "normalized_filename": "Module08.bas",
+    "bytes": 494,
+    "sha256": "fa89d8eeee434c2f5a79eeb71cf6e3f905241a7478d21f237e3e37cf9d840828",
+    "procedures": [
+      "ClearAutoCorrectEntries"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module09",
+    "original_filename": "Module9.bas",
+    "normalized_filename": "Module09.bas",
+    "bytes": 524,
+    "sha256": "d0b7fe60f758075d660bd4e543a68b49688861c17968520e47bfe545d6b0d895",
+    "procedures": [
+      "QuoteToTextSelct"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module10",
+    "original_filename": "Module10.bas",
+    "normalized_filename": "Module10.bas",
+    "bytes": 32,
+    "sha256": "5dfce2d18a96ef8ee452af7f3fafc5ffebe889ad319a91ac8464d0451b10cb53",
+    "procedures": [],
+    "empty": true
+  },
+  {
+    "module": "Module11",
+    "original_filename": "Module11.bas",
+    "normalized_filename": "Module11.bas",
+    "bytes": 469,
+    "sha256": "d8a73eddb0f653282d6870c2e0dcb1c8e4eafa4056952af9f5830e9ca8722be2",
+    "procedures": [
+      "DeleteTextWithNormalStyle"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module12",
+    "original_filename": "Module12.bas",
+    "normalized_filename": "Module12.bas",
+    "bytes": 1589,
+    "sha256": "2af8a6fc293b2a3d86b7e004b5e48a19b45d9d0563dcd2ec2705fe7318c52d40",
+    "procedures": [
+      "DeleteUnusedStyles"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module13",
+    "original_filename": "Module13.bas",
+    "normalized_filename": "Module13.bas",
+    "bytes": 2451,
+    "sha256": "3f394322ea43a15df1cdd7d26e1c9cc4f330d3610e752e9c978e6d7a0ecc994f",
+    "procedures": [
+      "FormatFirstTwoWords"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module14",
+    "original_filename": "Module14.bas",
+    "normalized_filename": "Module14.bas",
+    "bytes": 602,
+    "sha256": "2275db4b0e2d6ab986af022c288e0457cb30c59119ce7eca51a083ccd57accd8",
+    "procedures": [
+      "HighlightParagraphsWithStyle"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module15",
+    "original_filename": "Module15.bas",
+    "normalized_filename": "Module15.bas",
+    "bytes": 441,
+    "sha256": "b57d72cefeb47007f0ab1da2b9f0b0d721fb7490564869db1048925f50fdaaeb",
+    "procedures": [
+      "RemoveHighlight"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module16",
+    "original_filename": "Module16.bas",
+    "normalized_filename": "Module16.bas",
+    "bytes": 318,
+    "sha256": "6e1bd0586f5b0a89d9182a9c581a97f4a1be651cd3f42a65c35ad9793b449494",
+    "procedures": [
+      "ConvertFootnotesToText"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module17",
+    "original_filename": "Module17.bas",
+    "normalized_filename": "Module17.bas",
+    "bytes": 445,
+    "sha256": "d0d0f4325e82a071cd2c5dc33413717821c90101105412c71b22505588acc22d",
+    "procedures": [
+      "XoaDongTrong"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module18",
+    "original_filename": "Module18.bas",
+    "normalized_filename": "Module18.bas",
+    "bytes": 1673,
+    "sha256": "bfae6f9eb9a3a1f60b9647f0e759674fcf15e46195ec18f59813534b0e0c4dca",
+    "procedures": [
+      "highlightPartialMatches"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module19",
+    "original_filename": "Module19.bas",
+    "normalized_filename": "Module19.bas",
+    "bytes": 2089,
+    "sha256": "ef4fa14e6e77248959d932911f323331828bf34619c7651388d5a6a62f35cd36",
+    "procedures": [
+      "SplitDocumentByPageBreak"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module20",
+    "original_filename": "Module20.bas",
+    "normalized_filename": "Module20.bas",
+    "bytes": 1308,
+    "sha256": "6bff024a5d4f8223c76976bd1eca7ec97ee614fe4f2637d5d7164f969d94a16a",
+    "procedures": [
+      "MergeWordFiles"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module21",
+    "original_filename": "Module21.bas",
+    "normalized_filename": "Module21.bas",
+    "bytes": 1896,
+    "sha256": "06e605cea7cb3e795d29b6e25a80d2af554c214e762e549b47405342f517a9e8",
+    "procedures": [
+      "ReplaceSquareWithCheckboxInTable"
+    ],
+    "empty": false
+  },
+  {
+    "module": "Module22",
+    "original_filename": "Module22.bas",
+    "normalized_filename": "Module22.bas",
+    "bytes": 2033,
+    "sha256": "e7fd81facb2ad2e4d30e886dacd872c96301a0c2505022d5f4c74fb3a46cfc5c",
+    "procedures": [
+      "ConvertDocToDocx"
+    ],
+    "empty": false
+  }
+]

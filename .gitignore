@@ -1,0 +1,14 @@
+# Word/Office temporary files
+~$*
+*.tmp
+*.bak
+*.log
+*.exd
+*.cache
+
+# Local exports and backups (keep the folder structure)
+backups/*
+!backups/.gitkeep
+
+# VS Code local state
+.vscode/*.code-workspace
